@@ -10,7 +10,7 @@
   "lang": "ko",
   "start_url": "https://michisarm.github.io/pwatest/",
   "theme_color": "#ffffff",
-  "categories": ['test'],
+  "categories": ["test"],
   "screenshots": [],
   "icons": [
     {
