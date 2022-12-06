@@ -5,7 +5,7 @@
   "display": "standalone",
   "name": "1만 시간의 법칙",
   "orientation": "any",
-  "scope": "/",
+  "scope": "./",
   "short_name": "시간의 법칙",
   "lang": "ko",
   "start_url": "https://michisarm.github.io/pwatest/",
